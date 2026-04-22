@@ -1,0 +1,13 @@
+{
+  "name": "blink-sniper",
+  "version": "1.0.0",
+  "description": "Lightning-fast trading bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
